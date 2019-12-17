@@ -3,7 +3,6 @@
 2) Crime/Mystery – $728.2 million. ...
 3) Religious/Inspirational – $720 millio
 
-# https://bookscouter.com/
 
 Business & Money
 Romance Mystery Crime "Seductive Stranger"
@@ -28,3 +27,9 @@ Low Supply: You also want books that have low supply (low competition) on the Am
 High Demand: Obviously, you want books that have are in demand. You don’t want the opposite, where a book will sit on the shelf for months on end before it sells. If you use Amazon FBA, this will result in long-term storage fees, and if you do merchant fulfilled, this will result in diminishing space for new inventory. The way you measure demand, when selling books on Amazon, is by looking at the sales rank. It’s not a perfect metric, but it is the only thing we have and it can be fairly predictable. The lower the sales rank, the higher the demand (& the faster it will sell). (A book scanner will tell you this info)
 
 Good Enough condition: What do I mean by “Good enough” condition? Well, with Amazon, even though you can list a book as “Acceptable” you don’t want to list books that are in really bad condition. Amazon buyers expect a certain level of quality.
+
+
+
+# Where?
+## https://bookscouter.com/
+## https://bookriot.com/2017/10/31/sell-used-books/  
